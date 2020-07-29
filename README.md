@@ -29,7 +29,9 @@ J'utilise JavaScript pour le script principal et JSON pour le fichier contenant 
 Pour ce projet, j'ai utilisé le module de la librairie Discord.JS pour faire le pont avec l'API Discord, le module DayJS pour calculer le temps restant avant les prochaines présidentielles ainsi que le module DotENV pour charger le fichier .env.
 
 ### Puis-je ré-utiliser le robot sur mon compte Discord ?
-Comme le stipule la licence Affero, vous pouvez utiliser, fork, et distribuer ce projet à deux conditions :
+Comme le stipule la licence Affero, vous pouvez utiliser, fork, et distribuer ce projet à quelques conditions :
+- Me citer (LProgead)
+- Permettre à tous de télécharger votre nouveau code source
 - Ne pas l'inclure dans un produit commercial
 - Le distribuer sous la même licence, Affero.
 
