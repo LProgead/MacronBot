@@ -1,91 +1,108 @@
 {
     "keywords": [
         {
-            "salutation" : ["bonjour", "salut", "hey", "hello", "coucou", "wesh", "slt", "bjr", "cc"]
+            "salutation" : ["bonjour", "salut", "hey", "hello", "coucou", "wesh", "slt", "bjr", "cc"],
+            "salutation_answer" : ["Bien le bonjour très cher compatriote."]
         },
 
         {
-            "costard" : ["costard", "costume", "costards", "costumes"]
+            "costard" : ["costard", "costume", "costards", "costumes"],
+            "costard_answer" : ["La meilleure façon de se payer un costard, c'est de travailler."]
         },
 
         {
-            "milliardaire" : ["argent", "milliardaire", "riche", "monnaie", "fric", "pognon", "milliardaires"]
+            "milliardaire" : ["argent", "milliardaire", "riche", "monnaie", "fric", "pognon", "milliardaires"],
+            "milliardaire_answer" : ["Il faut des jeunes Français qui aient envie de devenir milliardaires."]
         },
 
         {
-            "covid" : ["covid", "covid-19", "corona", "coronavirus", "confinement"]
+            "covid" : ["covid", "covid-19", "corona", "coronavirus", "confinement"],
+            "covid_answer" : ["La France unie, c'est notre meilleur atout dans la période troublée par la COVID-19 que nous traversons. Nous tiendrons. Tous ensemble."]
         },
 
         {
-            "kwassa-kwassa" : ["kwassa-kwassa", "comorien", "comores"]
+            "kwassa-kwassa" : ["kwassa-kwassa", "comorien", "comores"],
+            "kwassa-kwassa_answer" : ["Le kwassa-kwassa pêche peu, il amène du Comorien."]
         },
 
         {
-            "gaullois" : ["français", "gaulois", "gaule", "france", "changement"]
+            "gaulois" : ["français", "gaulois", "gaule", "france", "changement"],
+            "gaulois_answer" : ["Vous êtes des Gaulois réfractaires au changement."]
         },
 
         {
-            "manif" : ["fainéants", "cyniques", "extrêmes", "manifestation", "fainéant", "cynique", "extrême", "manifestations"]
+            "manif" : ["fainéants", "cyniques", "extrêmes", "manifestation", "fainéant", "cynique", "extrême", "manifestations"],
+            "manif_answer" : ["Je ne céderai rien ni aux fainéants, ni aux cyniques, ni aux extrêmes."]
         },
 
         {
-            "chômeur" : ["chômage", "travail", "chômeur", "pôle", "emploi", "boulot"]
+            "chômeur" : ["chômage", "travail", "chômeur", "pôle", "emploi", "boulot"],
+            "chômeur_answer" : ["Je traverse la rue, je vous trouve du travail."]
         },
 
         {
-            "sextape" : ["grivaux", "sextape"]
+            "sextape" : ["grivaux", "sextape"],
+            "sextape_answer" : ["Tu fais ce que tu veux. C’est ta vie, ta famille qui est en jeu."]
         },
 
         {
-            "retraite" : ["retraite"]
+            "retraite" : ["retraite"],
+            "retraite_answer" : ["On pouvait parler très librement, la chose que l’on n’avait pas le droit de faire c’est de se plaindre. Je trouve que c’est une bonne pratique qu’avait le Général, le pays se tiendrait autrement si c’était comme cela. On ne se rend pas compte de la chance que l’on a. On vit de plus en plus vieux et en bonne santé."]
         },
 
         {
-            "syndicat" : ["syndicat", "syndicalite", "cgt", "cfdt", "syndicats", "syndicalistes"]
+            "syndicat" : ["syndicat", "syndicalite", "cgt", "cfdt", "syndicats", "syndicalistes"],
+            "syndicat_answer" : ["Je mesure les craintes et l'opposition mais il y a aussi beaucoup de mensonges et de manipulation."]
         },
 
         {
-            "reelu" : ["réélection", "réélu", "présidentielles", "2022"]
+            "perlimpimpin" : ["marine", "pen", "fn", "perlimpimpin"],
+            "perlimpimpin_answer" : ["Ce que vous proposez, comme d'habitude, c'est de la poudre de Perlimpinpin."]
         },
 
         {
-            "perlimpimpin" : ["marine", "pen", "fn", "perlimpimpin"]
+            "bigard" : ["jean-marie", "bigard"],
+            "bigard_answer" : ["Je suis fâché."]
         },
 
         {
-            "bigard" : ["jean-marie", "bigard"]
+            "t+" : ["paie", "payer", "payé", "salarié", "paies", "payés", "salariés"],
+            "t+_answer" : ["Les salariés français sont trop payés... Les salariés doivent pouvoir travailler plus, sans être payés plus si les syndicats majoritaires sont d’accord."]
         },
 
         {
-            "t+" : ["paie", "payer", "payé", "salarié", "paies", "payés", "salariés"]
+            "entrepreneur" : ["entrepreneur"],
+            "entrepreneur_answer" : ["Je dis aux jeunes : “ne cherchez plus un patron cherchez des clients”."]
         },
 
         {
-            "entrepreneur" : ["entrepreneur"]
+            "roi" : ["roi", "monarchie", "royauté"],
+            "roi_answer" : ["La France est en deuil d'un roi."]
         },
 
         {
-            "roi" : ["roi", "monarchie", "royauté"]
+            "apprenti" : ["apprenti", "alternance", "mineur"],
+            "apprenti_answer" : ["Je compte sur vous pour engager plus d’apprentis. C’est désormais gratuit quand ils sont mineurs."]
         },
 
         {
-            "apprenti" : ["apprenti", "alternance", "mineur"]
-        },
-
-        {
-            "jeune" : ["jeune", "stage"]
+            "jeune" : ["jeune", "stage"],
+            "jeune_answer" : ["Quand on est jeune, 35 heures ce n'est pas assez."]
         }, 
         
         {
-            "car" : ["car", "bus", "autobus", "autocar", "cars", "autocars"]
+            "car" : ["car", "bus", "autobus", "autocar", "cars", "autocars"],
+            "car_answer" : ["Les pauvres pourront voyager plus facilement."]
         },
 
         {
-            "gare" : ["gare", "train", "métro", "tgv", "sncf", "trains", "métros"]
+            "gare" : ["gare", "train", "métro", "tgv", "sncf", "trains", "métros"],
+            "gare_answer" : ["Une gare, c’est un lieu où l’on croise les gens qui réussissent et les gens qui ne sont rien."]
         },
 
         {
-            "pauvre" : ["pauvre"]
+            "pauvre" : ["pauvre"],
+            "pauvre_answer" : ["Les gens naissent pauvres et restent pauvres. Ceux qui tombent pauvres restent pauvres... Il faut qu'ils puissent s'en sortir."]
         }
     ]
 }
