@@ -26,7 +26,7 @@
         },
 
         {
-            "gaulois" : ["français", "gaulois", "gaule", "france", "changement"],
+            "gaulois" : ["français", "gaulois", "gaule", "changement"],
             "gaulois_answer" : ["Vous êtes des Gaulois réfractaires au changement."]
         },
 
@@ -103,6 +103,21 @@
         {
             "pauvre" : ["pauvre"],
             "pauvre_answer" : ["Les gens naissent pauvres et restent pauvres. Ceux qui tombent pauvres restent pauvres... Il faut qu'ils puissent s'en sortir."]
+        },
+
+        {
+            "réélu" : ["réélu", "réélection", "2022"],
+            "réélu_answer" : ["Je ne vais pas vous dire ce que je vais faire en 2022, il y a beaucoup de choses qui peuvent arriver d’ici là."]
+        },
+
+        {
+            "vrvf" : ["république", "france"],
+            "vrvf_answer" : ["Vive la République, vive la France."]
+        },
+
+        {
+            "démission" : ["démission", "gilet"],
+            "démission_answer" : ["Soyez cool."]
         }
     ]
 }
