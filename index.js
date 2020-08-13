@@ -37,7 +37,7 @@ client.on('message', message => {
                 if (!element[category]) return;
                 element[category].forEach(keyword => {
                     if (keyword === word) {
-                        message.channel.send(`${element[category + `_answer`]}`);
+                        message.channel.send(`${element[category + `_answer`][Math.floor(Math.random() * Math.floor(element[category + `_answer`].length))]}`);
                         answered = 1;
                         return;
                     }

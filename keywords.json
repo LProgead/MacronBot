@@ -17,7 +17,7 @@
 
         {
             "covid" : ["covid", "covid-19", "corona", "coronavirus", "confinement"],
-            "covid_answer" : ["La France unie, c'est notre meilleur atout dans la période troublée par la COVID-19 que nous traversons. Nous tiendrons. Tous ensemble."]
+            "covid_answer" : ["La France unie, c'est notre meilleur atout dans la période troublée par la COVID-19 que nous traversons. Nous tiendrons. Tous ensemble.", "Nous sommes en guerre."]
         },
 
         {
@@ -87,7 +87,7 @@
 
         {
             "jeune" : ["jeune", "stage"],
-            "jeune_answer" : ["Quand on est jeune, 35 heures ce n'est pas assez."]
+            "jeune_answer" : ["Quand on est jeune, 35 heures ce n'est pas assez.", "Je compte sur vous pour engager plus d’apprentis. C’est désormais gratuit quand ils sont mineurs."]
         }, 
         
         {
@@ -102,7 +102,7 @@
 
         {
             "pauvre" : ["pauvre"],
-            "pauvre_answer" : ["Les gens naissent pauvres et restent pauvres. Ceux qui tombent pauvres restent pauvres... Il faut qu'ils puissent s'en sortir."]
+            "pauvre_answer" : ["Les gens naissent pauvres et restent pauvres. Ceux qui tombent pauvres restent pauvres... Il faut qu'ils puissent s'en sortir.", "[Grâce aux bus] les pauvres pourront voyager plus facilement."]
         },
 
         {
