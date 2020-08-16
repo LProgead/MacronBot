@@ -1,6 +1,11 @@
 {
     "keywords": [
         {
+            "ping" : ["<@!737659120219586652>"],
+            "ping_answer" : ["Mon cher compatriote, bonjour ! \nJe suis très heureux que tu aies remarqué ma présence sur ton serveur. \nPour te remercier de la considération que tu portes à ton Président de la République, je vais te confier un immense secret : mon fonctionnement. Tu peux tout retrouver sur un document Evernote rédigé par Zibeth-ma-copine avant que Castex ne lui fasse prendre la porte : https://www.evernote.com/shard/s747/sh/84a0652a-8bae-4aad-9966-e43bce06651d/30e65a53aaf847f95d387cab8685def6"]
+        },
+
+        {
             "salutation" : ["bonjour", "salut", "hey", "hello", "coucou", "wesh", "slt", "bjr", "cc"],
             "salutation_answer" : ["Bien le bonjour très cher compatriote."]
         },
@@ -118,6 +123,11 @@
         {
             "démission" : ["démission", "gilet"],
             "démission_answer" : ["Soyez cool."]
+        },
+
+        {
+            "amoureux" : ["aime", "amoureux", "aimer"],
+            "amoureux_answer" : ["Eh bien d’abord, il faut savoir si c’est réciproque. Si c’est le cas, allez-y, pas de tabou. Si ce n'est pas le cas, interrogez-vous."]
         }
     ]
 }
