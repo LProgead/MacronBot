@@ -13,7 +13,7 @@ Il est prévu qu'une version Twitter soit développée, affaire à suivre.
 
 ### Comment participer au projet ?
 Votre aide est la bienvenue ! Si vous connaissez des phrases prononcées par Emmanuel Macron n'apparaissant pas dans le bot, vous pouvez me contacter par [e-mail](mailto:lprogead@mailo.com), via [Twitter](https://twitter.com/lprogead) ou via Discord (LProgead#3667).
-Vous pouvez aussi aider à faire avancer le bot en l'ajoutant sur votre serveur grâce à son [lien d'invitation](https://discord.com/api/oauth2/authorize?client_id=737659120219586652&permissions=67584&scope=bot). Grâce à cet acte, plus d'utilisateurs le connaîtrons et ça, ça me fera très plaisir 🥰
+Vous pouvez aussi aider à faire avancer le bot en l'ajoutant sur votre serveur grâce à son [lien d'invitation](https://discord.com/api/oauth2/authorize?client_id=737659120219586652&permissions=67584&scope=bot). Grâce à cet acte, plus d'utilisateurs le connaîtront et ça, ça me fera très plaisir 🥰
 
 ### Pour plus d'informations...
 ...n'hésitez pas à aller jeter un oeil sur le [document Evernote](https://www.evernote.com/shard/s747/sh/84a0652a-8bae-4aad-9966-e43bce06651d/30e65a53aaf847f95d387cab8685def6) sur lequel vous pourrez retrouver l'avancement en direct du projet et d'autres informations utiles.
