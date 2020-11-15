@@ -13,8 +13,8 @@ const a = dayjs();
 client.login(process.env.token);
 
 client.on('ready', () => {   
-    client.user.setActivity(a.to('2022-04-23', true).replace('years', 'années').replace('year', 'année').replace('months', 'mois').replace('month', 'mois').replace('days', 'jours').replace('day', 'jour').replace('hours', 'heures').replace('hour', 'heure').replace(' a ', ' 1 ').replace('in', 'dans') + " avant ma victoire aux prochaines présidentielles", { type : 'WATCHING' });
-    setInterval(function() { client.user.setActivity(a.to('2022-04-23', true).replace('years', 'années').replace('year', 'année').replace('months', 'mois').replace('month', 'mois').replace('days', 'jours').replace('day', 'jour').replace('hours', 'heures').replace('hour', 'heure').replace(' a ', ' 1 ').replace('in', 'dans') + " avant ma victoire aux prochaines présidentielles", { type : 'WATCHING' }); }, 60000);
+    client.user.setActivity(a.to('2022-04-23', true).replace('years', 'années').replace('year', 'année').replace('months', 'mois').replace('month', 'mois').replace('days', 'jours').replace('day', 'jour').replace('hours', 'heures').replace('hour', 'heure').replace('a ', ' 1 ').replace('in', 'dans') + " avant ma victoire aux prochaines présidentielles", { type : 'WATCHING' });
+    setInterval(function() { client.user.setActivity(a.to('2022-04-23', true).replace('years', 'années').replace('year', 'année').replace('months', 'mois').replace('month', 'mois').replace('days', 'jours').replace('day', 'jour').replace('hours', 'heures').replace('hour', 'heure').replace('a ', ' 1 ').replace('in', 'dans') + " avant ma victoire aux prochaines présidentielles", { type : 'WATCHING' }); }, 60000);
 
     let keywords_stats = 0;
     categories.forEach(category => {
