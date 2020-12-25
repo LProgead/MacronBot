@@ -39,9 +39,6 @@ client.on('ready', () => {
     fs.writeFileSync('stats.json', JSON.stringify(stats));
 
     console.log(`[DÉMARRAGE] Bot lancé. Disponible sur ${client.guilds.cache.size} serveurs avec ${client.users.cache.size} utilisateurs.`);
-    client.guilds.cache.forEach(guild => {
-	    console.log(`${guild.name} dirigé par ${guild.owner.user.tag}.`);
-    });
 });
 
 client.on('message', message => {
