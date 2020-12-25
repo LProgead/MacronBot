@@ -4,7 +4,7 @@ require('dotenv').config();
 const fs = require('fs');
 const stats = require('./stats.json');
 const keywords = require( './keywords.json');
-const categories = ["manu", "ping", "salutation", "costard", "milliardaire", "covid", "kwassa-kwassa", "gaulois", "manif", "chômeur", "sextape", "retraite", "syndicat", "reelu", "perlimpimpin", "bigard", "t+", "entrepreneur", "roi", "apprenti", "jeune", "car", "gare", "pauvre", "réélu", "vrvf", "démission", "amoureux"];
+const categories = ["manu", "ping", "salutation", "costard", "milliardaire", "covid", "kwassa-kwassa", "gaulois", "manif", "chômeur", "sextape", "retraite", "syndicat", "reelu", "perlimpimpin", "bigard", "t+", "entrepreneur", "roi", "apprenti", "jeune", "car", "gare", "pauvre", "réélu", "vrvf", "démission", "amoureux", "ecole"];
 const dayjs = require('dayjs');
 const relativeTime = require('dayjs/plugin/relativeTime');
 dayjs.extend(relativeTime);
