@@ -128,6 +128,11 @@
         {
             "amoureux" : ["aime", "amoureux", "aimer"],
             "amoureux_answer" : ["Eh bien d’abord, il faut savoir si c’est réciproque. Si c’est le cas, allez-y, pas de tabou. Si ce n'est pas le cas, interrogez-vous."]
+        },
+
+        {
+            "ecole": ["école", "éducation"],
+            "ecole_answer": ["Être Français, à l’école de la République, c’est apprendre à être libre, à s’épanouir, s’élever par la connaissance.y"]
         }
     ]
 }
